@@ -42,6 +42,7 @@ Este proyecto está enfocado en aprender los fundamentos de la ciberseguridad, c
 Aquí aprenderás cómo proteger aplicaciones, gestionar contraseñas, prevenir accesos no autorizados, y mucho más. Ideal para principiantes y entusiastas del hacking ético.
 
 ---
+![image](https://github.com/user-attachments/assets/84ac2659-e968-44b1-afce-5a96e659f81a)
 
 > **¡Aprender ciberseguridad nunca fue tan divertido!** 🎮🛡️
 

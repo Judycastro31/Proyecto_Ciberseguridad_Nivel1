@@ -23,4 +23,22 @@
 
 
 
+# Proyecto de Ciberseguridad 🔐
+
+![Ciberseguridad Anime](./A_2D_digital_illustration_in_anime-style_features_.png)
+
+Este proyecto está enfocado en aprender los fundamentos de la ciberseguridad, con un toque creativo que mezcla programación y arte. ✨
+
+## Lenguajes utilizados 💻
+
+- Python 🐍
+  
+
+## Descripción 📘
+
+Aquí aprenderás cómo proteger aplicaciones, gestionar contraseñas, prevenir accesos no autorizados, y mucho más. Ideal para principiantes y entusiastas del hacking ético.
+
+---
+
+> **¡Aprender ciberseguridad nunca fue tan divertido!** 🎮🛡️
 

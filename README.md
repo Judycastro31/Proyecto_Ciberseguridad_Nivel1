@@ -20,7 +20,7 @@
 ### 🌐 Conéctate conmigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/tu-canal)
-
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 # Proyecto de Ciberseguridad 🔐

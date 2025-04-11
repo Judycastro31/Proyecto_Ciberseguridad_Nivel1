@@ -34,12 +34,7 @@ Este proyecto está enfocado en aprender los fundamentos de la ciberseguridad, c
 
 ## Lenguajes utilizados 💻
 
-- Python 🐍
-  
-
-## Descripción 📘
-
-Aquí aprenderás cómo proteger aplicaciones, gestionar contraseñas, prevenir accesos no autorizados, y mucho más. Ideal para principiantes y entusiastas del hacking ético.
+- Python 🐍 
 
 ---
 # 🔐 Generador de Contraseñas Seguras
@@ -62,8 +57,6 @@ El objetivo principal de esta aplicación es ofrecer una herramienta sencilla y 
 
 - Python 3.x
 - Módulos estándar (`tkinter`, `random`, `string`)
-
-## ▶️ Cómo ejecutar
 
 1. Clona el repositorio:
    ```bash

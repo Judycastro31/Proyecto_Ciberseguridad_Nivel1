@@ -42,7 +42,33 @@ Este proyecto está enfocado en aprender los fundamentos de la ciberseguridad, c
 Aquí aprenderás cómo proteger aplicaciones, gestionar contraseñas, prevenir accesos no autorizados, y mucho más. Ideal para principiantes y entusiastas del hacking ético.
 
 ---
-![image](https://github.com/user-attachments/assets/84ac2659-e968-44b1-afce-5a96e659f81a)
+# 🔐 Generador de Contraseñas Seguras
+
+Este proyecto forma parte del **Nivel 1 de Ciberseguridad** y consiste en una aplicación de escritorio desarrollada en Python usando `Tkinter`, diseñada para generar contraseñas aleatorias y seguras.
+
+## 🎯 Objetivo
+
+El objetivo principal de esta aplicación es ofrecer una herramienta sencilla y rápida para crear contraseñas robustas, ayudando así a mejorar la seguridad de las cuentas en línea y proteger la información personal de los usuarios.
+
+## 🛠️ Funcionalidades
+
+- Generación de contraseñas seguras con longitud personalizable.
+- Copiado automático de la contraseña al portapapeles.
+- Validación mínima de longitud (8 caracteres).
+- Interfaz gráfica amigable con `Tkinter`.
+- Indicador visual (opcional) para mostrar la fortaleza de la contraseña.
+
+## 📦 Requisitos
+
+- Python 3.x
+- Módulos estándar (`tkinter`, `random`, `string`)
+
+## ▶️ Cómo ejecutar
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/Judycastro31/Proyecto_Ciberseguridad_Nivel1.git
+
 
 > **¡Aprender ciberseguridad nunca fue tan divertido!** 🎮🛡️
 

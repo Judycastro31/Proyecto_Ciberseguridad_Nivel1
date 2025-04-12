@@ -61,8 +61,8 @@ accede a la carpeta proyecto_ciberseguridadNivel1
 procedemos abrirlo con nuestyro editor favorito en mi caso utilice Vs code:
 Code  .
 
-
 🤝 Cómo Contribuir
+
 ¡Agradezco de forma muy respeuosa tu interes en querer contribuhir en mejorar continumante mi proyecto basico1!
 si deseas colaborar, sigue estos pasos:
 1 haz un fork del repositorio, ve a https://github.com/Judycastro31/Proyecto_Ciberseguridad_Nivel1.git

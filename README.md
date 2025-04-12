@@ -51,11 +51,7 @@ Este proyecto consiste en una aplicación de escritorio creada con **Python** y 
 ## 📦 Requisitos
 
 - Python 3.x instalado
-- Librerías estándar: `tkinter`, `random`, `string`
-
-> Si no tienes `tkinter`, puedes instalarlo con:
-```bash
-pip install tk
+- Librerías estándar: tkinter, random, string
 
 
 copia y pega el enlace del repositorio

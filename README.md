@@ -57,7 +57,7 @@ Este proyecto consiste en una aplicación de escritorio creada con **Python** y 
 copia y pega el enlace del repositorio
 abrir terminal o cmd y ejecutar
 git clone https://github.com/Judycastro31/Proyecto_Ciberseguridad_Nivel1.git
-accede a la carpeta donde quieres poner el proyecto ej cd proyecto_ciberseguridadN1
+accede a la carpeta proyecto_ciberseguridadNivel1 
 procedemos abrirlo con nuestyro editor favorito en mi caso utilice Vs code:
 Code  .
 

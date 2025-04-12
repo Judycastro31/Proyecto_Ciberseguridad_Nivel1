@@ -61,7 +61,7 @@ accede a la carpeta proyecto_ciberseguridadNivel1
 procedemos abrirlo con nuestyro editor favorito en mi caso utilice Vs code:
 Code  .
 
-🤝 Cómo Contribuir
+🤝 Cómo contribuir
 
 ¡Agradezco de forma muy respeuosa tu interes en querer contribuhir en mejorar continumante mi proyecto basico1!
 si deseas colaborar, sigue estos pasos:

@@ -4,6 +4,12 @@
 🐍 Me encanta Python y estoy aprendiendo constantemente  
 📫 Contacto: yudy-castro1@upc.edu.co 
 
+## 🔢 Versiones del Proyecto
+
+- 📌 [Versión 1.0](./v1.0/generador_contraseñas.py): Primera versión básica del generador de contraseñas.
+- 📌 [Versión 2.0](./v2.0/generador_contraseñas.py): Se añaden mejoras en la interfaz y opciones de complejidad.
+- 📌 [Versión 3.0](./v3.0/generador_contraseñas.py): Versión final con validaciones y optimización del código.
+
 ---
 
 ### 🔧 Tecnologías y herramientas:
@@ -93,4 +99,3 @@ Judy vanessa Castro arias
 
 
 > **¡Aprender ciberseguridad nunca fue tan divertido!** 🎮🛡️
-

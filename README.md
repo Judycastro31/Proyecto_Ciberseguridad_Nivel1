@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Judy!
+# 👋 ¡Hola, somos Judy y geronimo!
 
 💻 Apasionada por la programación y la ciberseguridad  
 🐍 Me encanta Python y estoy aprendiendo constantemente  

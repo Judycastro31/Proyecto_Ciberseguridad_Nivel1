@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Judy!
 
 💻 Apasionada por la programación y la ciberseguridad  
-🐍 Me encanta Python y estoy aprendiendo constantemente  
+🐍 Java, CSS y Python, estoy aprendiendo constantemente  
 📫 Contacto: yudy-castro1@upc.edu.co 
 
 ## 🔢 Versiones del Proyecto
